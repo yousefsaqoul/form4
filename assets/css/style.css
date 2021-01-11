@@ -1,0 +1,22 @@
+
+fieldset {
+    width: 900px;
+
+
+}
+input, label {
+    margin-bottom: 10px;
+
+}
+
+.form-control { 
+    line-height: 20px;
+    width: 100px;
+    display: inline-block;
+
+
+}
+
+  h1 {
+      display: inline-block;
+  }
